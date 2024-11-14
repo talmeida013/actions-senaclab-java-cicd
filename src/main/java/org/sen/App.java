@@ -5,12 +5,11 @@ import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
 
 /**
- * This class demonstrates how to set up a Jetty server. 
+ * This class demonstrates how to set up a Jetty server.
  */
 public final class App {
     /**
      * The port number for the Jetty server.
-     * teste
      */
     private static final int PORT = 10010;
 
